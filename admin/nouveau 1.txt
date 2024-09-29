@@ -1,0 +1,62 @@
+<section class="section">
+    <h2>Découvrez nos Intrants agricoles de qualité</h2>
+    <div class="products-grid">
+      
+		<div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 12">
+            <h3>1. Semences</h3>
+            <p>Semences de céréales (maïs, riz, sorgho)
+				Semences de tubercules (manioc, patates douces, ignames)
+				Semences de légumineuses (haricots, arachides)
+				Semences de légumes (tomates, oignons, poivrons)</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+
+       <div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 13">
+            <h3>2. Engrais</h3>
+            <p>Engrais organiques (fumier, compost)
+				Engrais chimiques (urée, NPK, sulfate d'ammonium)
+				Amendements de sol (chaux, soufre)</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+		<div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 14">
+            <h3>3. Produits Phytosanitaires</h3>
+            <p>Insecticides (pour lutter contre les insectes nuisibles)
+				Fongicides (pour prévenir et traiter les maladies fongiques)
+				Herbicides (pour contrôler les mauvaises herbes)
+				Biopesticides (solutions naturelles pour la lutte intégrée)</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+	<div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 15">
+            <h3>4. Matériel de Culture</h3>
+            <p>Outils manuels (houes, pelles, râteaux)
+				Matériel de semis (semis direct, semoirs manuels)
+				Systèmes d'irrigation (goutte à goutte, arrosage par aspersion)</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+		<div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 16">
+            <h3>5. Systèmes de Conservation</h3>
+            <p>Matériel de stockage (silos, sacs hermétiques)
+				Techniques de conservation (séchage, fumage)</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+		<div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 17">
+            <h3>6. Matériel de Protection des Cultures</h3>
+            <p>Filets anti-insectes
+				Tunnels de protection (pour les jeunes plants)</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+	<div class="product-card">
+            <img src="https://via.placeholder.com/300x200" alt="Produit 18">
+            <h3>7. Ressources en Eau.</h3>
+            <p>Systèmes de collecte d'eau de pluie
+				Pompes et systèmes d'irrigation</p>
+            <a href="#" class="btn">Commander</a>
+        </div>
+    </div>
+</section>
